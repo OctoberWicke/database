@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mar23Thurs(NEW-EST)</string>
+
+
+    <string-array name="states">
+        <item>Action</item>
+        <item>Horror</item>
+        <item>Mystery</item>
+
+    </string-array>
+</resources>
